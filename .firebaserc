@@ -1,0 +1,5 @@
+{
+	"projects": {
+		"default": "parlay-nation-sveltekit"
+	}
+}

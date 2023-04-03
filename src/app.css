@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-deep-blue {
+	background-color: #0a0a23;
+}
